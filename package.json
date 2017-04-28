@@ -1,7 +1,7 @@
 {
   "name": "atom-pair-less",
   "main": "./lib/atom_pair-less",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "An Atom Package that allows for epic pair programming, powered by Pusher, without deprecation warnings",
   "repository": "https://github.com/agustif/atom-pair-less",
   "license": "MIT",
